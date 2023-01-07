@@ -1,0 +1,5 @@
+.DS_Store
+/images
+/downscaled_images_raw
+/downscaled_images_structure
+*.npy
