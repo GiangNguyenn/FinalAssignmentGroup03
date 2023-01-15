@@ -3,3 +3,5 @@
 /downscaled_images_raw
 /downscaled_images_structure
 *.npy
+*.zip
+*.csv
